@@ -1063,7 +1063,7 @@ height: 100%;
     padding: 18px 25px;
     position: absolute;
     left:31.9%;
-    background: var(--color);
+    background: var(--color);}
 
 }
 @media(max-width:1024px)
